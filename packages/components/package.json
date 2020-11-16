@@ -4,7 +4,7 @@
   "description": "components d1",
   "author": "",
   "license": "MIT",
-  "repository": "/components",
+  "repository": "@teste-david/components",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
@@ -60,5 +60,5 @@
   "files": [
     "dist"
   ],
-  "gitHead": "3692b2c6c0d79a2e63eb0d86affbb5a2a8d96cf7"
+  "gitHead": "4657e8e60faf90b58dfb2e28bc2720a1a84c05d4"
 }
